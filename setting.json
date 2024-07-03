@@ -1,0 +1,47 @@
+{
+  "editor.fontFamily": "Dank Mono",
+  //"editor.fontFamily": "Fragment Mono",
+  // "editor.fontFamily": "Roboto",
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 20,
+  "explorer.confirmDragAndDrop": false,
+  "editor.wordWrap": "on",
+  "explorer.confirmDelete": false,
+  "reactSnippets.settings.importReactOnTop": false,
+  "editor.cursorBlinking": "expand",
+  "editor.find.cursorMoveOnType": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "git.openRepositoryInParentFolders": "never",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.accessibilitySupport": "off",
+  "terminal.integrated.env.windows": {},
+  "git.autofetch": true,
+  "workbench.colorTheme": "Dark Magic Tokyo",
+  "window.zoomLevel": 2,
+  "editor.mouseWheelZoom": true,
+  "editor.codeActionsOnSave": {},
+  "window.menuBarVisibility": "compact",
+  "workbench.settings.applyToAllProfiles": [
+  
+  ],
+  "terminal.integrated.fontFamily": "monospace",
+  "cmake.showOptionsMovedNotification": false,
+  "code-runner.runInTerminal": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "codeium.enableCodeLens": false,
+  "codeium.enableConfig": {
+    "*": true,
+    "properties": true,
+    "plaintext": true
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "http.proxyAuthorization": null
+}
